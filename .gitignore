@@ -1,0 +1,26 @@
+# ============================
+# Arquivos de NetBeans / Java
+# ============================
+
+# Carpetas autogeneradas por Maven
+target/
+
+# Configuraciones específicas de NetBeans
+nb-configuration.xml
+nbactions.xml
+nbactions-*.xml
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Archivos temporales
+*.class
+``
